@@ -18,8 +18,8 @@ amb Cloudflare Pages des de la branca `main` de cada repositori.
 | [pi](https://github.com/step-quiz/pi) | Material adaptat per a alumnat amb dificultats de tipus cognitiu: fitxes, caixa d'eines digital i exàmens | 1r i 4t d'ESO (PI) | [pi.step-quiz.net](https://pi.step-quiz.net) |
 | [cb](https://github.com/step-quiz/cb) | Preguntes reals de les proves de competències bàsiques, en mode pràctica (amb pistes) o examen | 2n i 4t d'ESO | [cb.step-quiz.net](https://cb.step-quiz.net) |
 | [cangurcat](https://github.com/step-quiz/cangurcat) | Problemes de la prova Cangur, amb pistes | ESO | [cangurcat.step-quiz.net](https://cangurcat.step-quiz.net) |
-| [repas](https://github.com/step-quiz/repas) | Autoavaluació en 12 fulls per repassar l'ESO abans de començar el Batxillerat | 1r de Batxillerat | [repas.step-quiz.net](https://repas.step-quiz.net) |
-| [geom](https://github.com/step-quiz/geom) | 130 preguntes obertes de geometria sintètica per explorar i demostrar | ESO i Batxillerat | [geom.step-quiz.net](https://geom.step-quiz.net) |
+| repas (privat) | Autoavaluació en 12 fulls per repassar l'ESO abans de començar el Batxillerat | 1r de Batxillerat | [repas.step-quiz.net](https://repas.step-quiz.net) |
+| geom (privat) | 130 preguntes obertes de geometria sintètica per explorar i demostrar | ESO i Batxillerat | [geom.step-quiz.net](https://geom.step-quiz.net) |
 | [inaba](https://github.com/step-quiz/inaba) | Trencaclosques matemàtics de Naoki Inaba, traduïts i fets interactius | Tothom | [inaba.step-quiz.net](https://inaba.step-quiz.net) |
 | [pau](https://github.com/step-quiz/pau) | Enunciats, pistes i solucions de les PAU de Matemàtiques | 2n de Batxillerat | [pau.step-quiz.net](https://pau.step-quiz.net) |
 | [sol](https://github.com/step-quiz/sol) | Exercicis setmanals per unitat, amb pistes i errades del solucionari | 2n de Batxillerat | [sol.step-quiz.net](https://sol.step-quiz.net) |
@@ -45,10 +45,11 @@ amb Cloudflare Pages des de la branca `main` de cada repositori.
 | [pd](https://github.com/step-quiz/pd) | Programacions didàctiques de Matemàtiques | [pd.step-quiz.net](https://pd.step-quiz.net) |
 | [combinades](https://github.com/step-quiz/combinades) | Generador de fulls d'operacions combinades en LaTeX i PDF (1r d'ESO) | [combinades.step-quiz.net](https://combinades.step-quiz.net) |
 | [prova1eso](https://github.com/step-quiz/prova1eso) | Muntador de la prova inicial de 1r d'ESO, per imprimir | [prova1eso.step-quiz.net](https://prova1eso.step-quiz.net) |
-| [recu](https://github.com/step-quiz/recu) | Muntador de l'examen de recuperació de matemàtiques de cursos anteriors | [recu.step-quiz.net](https://recu.step-quiz.net) |
+| recu (privat) | Muntador de l'examen de recuperació de matemàtiques de cursos anteriors | [recu.step-quiz.net](https://recu.step-quiz.net) |
 | [test-tutor](https://github.com/step-quiz/test-tutor) | Bateries de respostes d'alumnes per provar tutors automàtics | — |
 | [cagg](https://github.com/step-quiz/cagg) | Catàleg de les imatges #MathsToday de Catriona Agg | [cagg.step-quiz.net](https://cagg.step-quiz.net) |
 
+`repas`, `geom` i `recu` són privats perquè porten les solucions; els webs són públics.
 A més, hi ha alguns repositoris privats amb eines internes del departament.
 
 ## Llicència
@@ -56,4 +57,7 @@ A més, hi ha alguns repositoris privats amb eines internes del departament.
 La majoria de repositoris porten la seva llicència a `LLICENCIA.md`: el **contingut pedagògic** és
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ca) i el **codi**, MIT.
 Es pot fer servir a classe, adaptar i compartir, citant-ne l'autor i sense ús comercial.
+`pau` i `sol` són l'excepció: el contingut és
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ca), per decisió de l'autor
+(es pot compartir tal com és, però no se'n poden difondre versions modificades); el codi també és MIT.
 Els trencaclosques d'`inaba` són obra de Naoki Inaba (vegeu-ne el README).
